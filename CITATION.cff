@@ -7,7 +7,7 @@ authors:
     given-names: Niti B.
     orcid: "https://orcid.org/0000-0002-2199-9605"
     affiliation: University of Virginia School of Medicine
-repository-code: "https://github.com/jadejaniti/amr-metagenome-screen"
+repository-code: "https://github.com/jadejaniti/AMR_metagenome_screen"
 abstract: >-
   A reproducible screen of two publicly deposited metagenome assemblies from
   pharmaceutical and industrial effluent treatment in India for antimicrobial
