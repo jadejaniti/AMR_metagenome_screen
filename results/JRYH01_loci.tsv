@@ -1,0 +1,6 @@
+contig	contig_len	start	end	gene	databases	n_db	best_identity	best_coverage	raw_names	product
+JRYH01011675.1	4834	3244	3697	arr (rifampicin)	argannot,card,megares,ncbi,resfinder	5	100.0	100.0	(Rif)arr2;ARR;ARR-2_1;arr-2	(Rif)arr2
+JRYH01135593.1	618	0	599	sul4	argannot,card,megares,ncbi,resfinder	5	99.83	69.33	(Sul)sul4;SULI;sul4;sul4_1	(Sul)sul4
+JRYH01006040.1	3362	1753	3140	toprJ1	ncbi,resfinder	2	96.72	100.0	TOprJ3_1;toprJ1	Doxycycline;Minocycline;Tetracycline;Tigecycline TOprJ3
+JRYH01019787.1	909	0	826	mex efflux	ncbi,resfinder	2	96.26	73.71	tmexC3;tmexC3_1	TIGECYCLINE multidrug efflux RND transporter periplasmic adaptor subunit TMexC3
+JRYH01065610.1	916	459	792	qacE (biocide)	megares	1	98.2	100.0	QACK	Multi-compound:Drug_and_biocide_resistance:Drug_and_biocide_SMR_efflux_pumps:QACK

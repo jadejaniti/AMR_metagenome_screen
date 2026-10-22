@@ -1,0 +1,35 @@
+contig	contig_len	start	end	gene	databases	n_db	best_identity	best_coverage	raw_names	product
+AERA01018606.1	2440	694	1498	strA/aph(3'')	argannot,card,megares,ncbi,resfinder	5	100.0	100.0	(AGly)strA;APH(3'')-Ib;APH3-DPRIME;aph(3'')-Ib;aph(3'')-Ib_2	(AGly)strA
+AERA01018606.1	2440	1497	2334	strB/aph(6)	argannot,card,megares,ncbi,resfinder	5	100.0	100.0	(AGly)strB;APH(6)-Id;APH6;aph(6)-Id;aph(6)-Id_1	(AGly)strB
+AERA01001083.1	1020	44	908	blaGES	argannot,card,megares,ncbi,resfinder	5	100.0	100.0	(Bla)blaGES-1;GES;GES-1;blaGES-1;blaGES-1_1	(Bla)blaGES-1
+AERA01018647.1	831	21	822	blaOXA	argannot,card,megares,ncbi,resfinder	5	100.0	100.0	(Bla)blaOXA-10;OXA;OXA-10;blaOXA-10;blaOXA-10_1	(Bla)blaOXA-10
+AERA01023697.1	1505	616	1417	blaVIM	argannot,card,megares,ncbi,resfinder	5	100.0	100.0	(Bla)blaVIM-2;VIM;VIM-2;blaVIM-2;blaVIM-2_1	(Bla)blaVIM-2
+AERA01017201.1	2781	343	1819	msr(E) macrolide	argannot,card,megares,ncbi,resfinder	5	100.0	100.0	(MLS)msr(E);MSRE;msr(E);msr(E)_1;msrE	(MLS)msr(E)
+AERA01014631.1	609	121	574	arr (rifampicin)	argannot,card,megares,ncbi,resfinder	5	100.0	100.0	(Rif)arr3;ARR;ARR-3_1;arr-3	(Rif)arr3
+AERA01009517.1	1347	20	836	sul2	argannot,card,megares,ncbi,resfinder	5	100.0	100.0	(Sul)sul2;SULII;sul2;sul2_2	(Sul)sul2
+AERA01035294.1	581	87	561	dfrA	argannot,card,megares,ncbi,resfinder	5	100.0	100.0	(Tmt)dfrA1;DFRA;dfrA1;dfrA1_8	(Tmt)dfrA1
+AERA01018650.1	411	111	348	dfrB	argannot,card,megares,ncbi,resfinder	5	100.0	100.0	(Tmt)dfrB5;DFRB;dfrB5;dfrB5_1	(Tmt)dfrB5
+AERA01018618.1	556	11	488	aac(3)	argannot,card,megares,ncbi,resfinder	5	100.0	100.0	(AGly)aac3-Id;AAC(3)-Id;AAC3;aac(3)-Id;aac(3)-Id_1	Drugs:Aminoglycosides:Aminoglycoside_N-acetyltransferases:AAC3
+AERA01018625.1	634	62	627	aac(6')	argannot,card,megares,ncbi,resfinder	5	100.0	100.0	(AGly)aacA4;AAC(6')-Ib4;AAC6-PRIME;aac(6')-Ib3_1;aac(6')-Ib4	aminoglycoside AAC(6')-Ib4 is an aminoglycoside acetyltransferase in Serratia spp.
+AERA01018605.1	810	0	810	sul1	argannot,card,megares,ncbi,resfinder	5	100.0	97.83	(Sul)sul1;SULI;sul1;sul1_39	Drugs:Sulfonamides:Sulfonamide-resistant_dihydropteroate_synthases:SULI
+AERA01018638.1	658	191	658	aac(6')	argannot,card,megares,ncbi,resfinder	5	100.0	84.14	(AGly)aac6-IIa;AAC(6')-IIa;AAC6-PRIME;aac(6')-IIa;aac(6')-IIa_1	aminoglycoside AAC(6')-IIa is an aminoglycoside acetyltransferase encoded by plasmids and 
+AERA01014442.1	772	0	753	tet (tetracycline)	argannot,card,megares,ncbi,resfinder	5	100.0	64.52	(Tet)tetX;TETX;tet(X);tet(X)_1;tet(X2)	Drugs:Tetracyclines:Tetracycline_inactivation_enzymes:TETX
+AERA01017201.1	2781	1874	2759	mph macrolide	argannot,card,megares,ncbi,resfinder	5	99.89	100.0	(MLS)mph(E);MPHE;mph(E);mph(E)_1;mphE	macrolide mphE is a macrolide phosphotransferase and resistance gene identified on a plasm
+AERA01018657.1	1760	992	1760	blaOXA	argannot,card,megares,ncbi,resfinder	5	99.86	96.75	(Bla)blaOXA-36;OXA;OXA-36;blaOXA-2;blaOXA-36_1	(Bla)blaOXA-36
+AERA01027427.1	1447	426	1227	erm macrolide	argannot,card,megares,ncbi,resfinder	5	99.75	100.0	(MLS)erm(F);ERMF;ErmF;erm(F);erm(F)_3	Drugs:MLS:23S_rRNA_methyltransferases:ERMF
+AERA01007166.1	1254	36	1254	cmlA chloramphenicol	argannot,card,megares,ncbi,resfinder	5	99.57	99.57	(Phe)cmlA5;CMLA;Salmonella_enterica_cmlA;cmlA5;cml_1	phenicol cmlA is a plasmid-encoded chloramphenicol exporter that is found in Salmonella ty
+AERA01010364.1	924	0	545	(AGly)aph(3'')-Ia	argannot,card,megares,ncbi,resfinder	5	99.45	66.79	(AGly)aph(3'')-Ia;APH(3')-Ia;APH3-DPRIME;aph(3')-Ia;aph(3')-Ia_7	(AGly)aph(3'')-Ia
+AERA01012892.1	510	0	482	cat chloramphenicol	argannot,card,megares,ncbi,resfinder	5	97.93	73.03	(Phe)catQ;CAT;catA16;catQ;catQ_1	(Phe)catQ
+AERA01018807.1	966	100	966	floR	argannot,card,megares,ncbi,resfinder	5	96.08	71.36	(Phe)floR;FLOR;floR;floR_2	Drugs:Phenicol:Phenicol_resistance_MFS_efflux_pumps:FLOR
+AERA01023697.1	1505	5	464	aac(6')	card,megares,ncbi,resfinder	4	100.0	100.0	AAC(6')-Il;AAC6-PRIME;aac(6')-Il;aac(6')-Il_1	aminoglycoside AAC(6')-Il is an aminoglycoside acetyltransferase encoded by plasmids and i
+AERA01026618.1	1030	30	895	ant (aminoglycoside)	argannot,card,megares,ncbi	4	99.65	100.0	(AGly)aadS;ANT6;aadS	(AGly)aadS
+AERA01000613.1	394	0	281	qacE (biocide)	card,megares	2	100.0	84.38	QACE;qacE	Multi-compound:Drug_and_biocide_resistance:Drug_and_biocide_SMR_efflux_pumps:QACE
+AERA01005730.1	597	7	596	class A beta-lactamase	megares,ncbi	2	100.0	66.78	BLAA;bla-A	Drugs:betalactams:Class_A_betalactamases:BLAA
+AERA01027366.1	4425	205	1637	toprJ1	ncbi,resfinder	2	99.86	100.0	TOprJ3_1;toprJ1	Doxycycline;Minocycline;Tetracycline;Tigecycline TOprJ3
+AERA01008257.1	1149	38	1149	mex efflux	ncbi,resfinder	2	99.19	95.45	tmexC3;tmexC3_1	TIGECYCLINE multidrug efflux RND transporter periplasmic adaptor subunit TMexC3
+AERA01027366.1	4425	1641	4425	mex efflux	ncbi,resfinder	2	99.07	88.8	tmexD2;tmexD2_1	TIGECYCLINE multidrug efflux RND transporter permease subunit TMexD2
+AERA01018644.1	500	50	384	qacE (biocide)	card,megares	2	97.6	100.0	QACL;qacL	Multi-compound:Drug_and_biocide_resistance:Drug_and_biocide_SMR_efflux_pumps:QACL
+AERA01018601.1	538	98	431	qacE (biocide)	megares	1	100.0	100.0	QACG	Multi-compound:Drug_and_biocide_resistance:Drug_and_biocide_SMR_efflux_pumps:QACG
+AERA01035941.1	485	50	485	ant (aminoglycoside)	megares	1	99.54	64.44	ANT3-DPRIME	Drugs:Aminoglycosides:Aminoglycoside_O-nucleotidyltransferases:ANT3-DPRIME
+AERA01015742.1	412	103	412	qacE (biocide)	megares	1	99.35	92.79	QACK	Multi-compound:Drug_and_biocide_resistance:Drug_and_biocide_SMR_efflux_pumps:QACK
+AERA01000503.1	2007	1088	1670	IncP1_2	plasmidfinder	1	99.14	100.0	IncP1_2	IncP1_2__U67194

@@ -1,0 +1,135 @@
+database	gene	accession	contig	c_start	c_end	strand	ref_len	identity	coverage	score	product
+argannot	(AGly)strA	AB366441:22458-23261	AERA01018606.1	694	1498	+	804	100.0	100.0	100.0	(AGly)strA
+argannot	(AGly)strB	FJ474091:264-1100	AERA01018606.1	1497	2334	+	837	100.0	100.0	100.0	(AGly)strB
+argannot	(Bla)blaGES-1	HM370522:1-864	AERA01001083.1	44	908	+	864	100.0	100.0	100.0	(Bla)blaGES-1
+argannot	(Bla)blaOXA-10	HQ386834:1465-2265	AERA01018647.1	21	822	+	801	100.0	100.0	100.0	(Bla)blaOXA-10
+argannot	(Bla)blaVIM-2	AY884050:551-1351	AERA01023697.1	616	1417	+	801	100.0	100.0	100.0	(Bla)blaVIM-2
+argannot	(MLS)msr(E)	JF769133:7246-8721	AERA01017201.1	343	1819	+	1476	100.0	100.0	100.0	(MLS)msr(E)
+argannot	(Rif)arr3	JF806499:1353-1805	AERA01014631.1	121	574	-	453	100.0	100.0	100.0	(Rif)arr3
+argannot	(Sul)sul2	EU360945:1617-2432	AERA01009517.1	20	836	+	816	100.0	100.0	100.0	(Sul)sul2
+argannot	(Tmt)dfrA1	JQ794607:474	AERA01035294.1	87	561	-	474	100.0	100.0	100.0	(Tmt)dfrA1
+argannot	(Tmt)dfrB5	AY943084:2856-3092	AERA01018650.1	111	348	-	237	100.0	100.0	100.0	(Tmt)dfrB5
+argannot	(AGly)aac3-Id	AB114632:104-580	AERA01018618.1	11	488	+	477	99.79	100.0	99.79	(AGly)aac3-Id
+argannot	(MLS)mph(E)	JF769133:8777-9661	AERA01017201.1	1874	2759	+	885	99.77	100.0	99.77	(MLS)mph(E)
+argannot	(AGly)aadS	NG_047380:101-964	AERA01026618.1	30	895	+	864	99.65	100.0	99.65	(AGly)aadS
+argannot	(MLS)erm(F)	M14730:241-1041	AERA01027427.1	426	1227	+	801	99.63	100.0	99.63	(MLS)erm(F)
+argannot	(AGly)aacA4	AF416297:2738-3304	AERA01018625.1	62	627	-	567	99.82	99.65	99.47	(AGly)aacA4
+argannot	(Bla)blaOXA-36	AF300985:1-739	AERA01018657.1	1045	1760	-	739	99.86	96.75	96.62	(Bla)blaOXA-36
+argannot	(Sul)sul1	AF071413:6700-7539	AERA01018605.1	0	810	+	840	100.0	96.43	96.43	(Sul)sul1
+argannot	(Phe)cmlA5	HQ141279:907-2166	AERA01007166.1	86	1254	-	1260	100.0	92.7	92.7	(Phe)cmlA5
+argannot	(AGly)aac6-IIa	M29695:707-1261	AERA01018638.1	191	658	-	555	99.79	84.14	83.96	(AGly)aac6-IIa
+argannot	(Phe)catQ	M55620:459-1118	AERA01012892.1	0	482	-	660	97.93	73.03	71.52	(Phe)catQ
+argannot	(Phe)floR	AKLJ01000508:383-1597	AERA01018807.1	101	966	-	1215	94.23	71.28	67.16	(Phe)floR
+argannot	(AGly)aph(3'')-Ia	FJ172370:38668-39483	AERA01010364.1	0	545	-	816	99.45	66.79	66.42	(AGly)aph(3'')-Ia
+argannot	(Tet)tetX	M37699:586-1752	AERA01014442.1	0	753	-	1167	99.87	64.52	64.44	(Tet)tetX
+card	AAC(6')-Ib4	AF445082.1:2788-3343	AERA01018625.1	62	617	-	555	100.0	100.0	100.0	aminoglycoside AAC(6')-Ib4 is an aminoglycoside acetyltransferase in Serratia spp.
+card	AAC(6')-Il	U13880.2:308-767	AERA01023697.1	5	464	+	459	100.0	100.0	100.0	aminoglycoside AAC(6')-Il is an aminoglycoside acetyltransferase encoded by plasmids and integrons in Enterobacter cloaecae and Klebsiella aerogenes.
+card	OXA-10	AF205943.1:7511-8312	AERA01018647.1	21	822	+	801	100.0	100.0	100.0	cephalosporin;penicillin_beta-lactam OXA-10 is a beta-lactamase found in Acinetobacter baumannii and P. aeruginosa.
+card	VIM-2	EF614235.1:2948-3749	AERA01023697.1	616	1417	+	801	100.0	100.0	100.0	carbapenem;cephalosporin;penicillin_beta-lactam VIM-2 is a beta-lactamase found in Pseudomonas spp.
+card	arr-3	EU675686.1:1956-2409	AERA01014631.1	121	574	-	453	100.0	100.0	100.0	rifamycin arr-3 is a plasmid-encoded ribosyltransferase found in Vibrio fluvialis.
+card	dfrB5	AY943084.1:2855-3092	AERA01018650.1	111	348	-	237	100.0	100.0	100.0	diaminopyrimidine A dihydrofolate reductase and trimethoprim resistance gene identified from an integron in Pseudomonas aeruginosa.
+card	msrE	EU294228.1:21241-22717	AERA01017201.1	343	1819	+	1476	100.0	100.0	100.0	macrolide;streptogramin MsrE is an ABC-F subfamily protein expressed to Klebsiella pneumoniae that confers resistance to erythromycin and streptogramin B antibiotics. It is associated with plasmid DNA. It is also 100% identical to ABC-F type ribosomal protection protein Msr(E) which is in multiple species.
+card	sul2	AY055428.1:21084-20268	AERA01009517.1	20	836	+	816	100.0	100.0	100.0	sulfonamide Sul2 is a sulfonamide resistant dihydropteroate synthase of Gram-negative bacteria, usually found on small plasmids.
+card	mphE	DQ839391.1:13757-12872	AERA01017201.1	1874	2759	+	885	99.89	100.0	99.89	macrolide mphE is a macrolide phosphotransferase and resistance gene identified on a plasmid, pRSB105.
+card	APH(3'')-Ib	AF313472.2:15593-16397	AERA01018606.1	694	1498	+	804	99.88	100.0	99.88	aminoglycoside APH(3'')-Ib is an aminoglycoside phosphotransferase encoded by plasmids, transposons, integrative conjugative elements and chromosomes in Enterobacteriaceae and Pseudomonas spp.
+card	APH(6)-Id	AF024602.1:3155-3992	AERA01018606.1	1497	2334	+	837	99.88	100.0	99.88	aminoglycoside APH(6)-Id is an aminoglycoside phosphotransferase encoded by plasmids, integrative conjugative elements and chromosomal genomic islands in K. pneumoniae, Salmonella spp., E. coli, Shigella flexneri, Providencia alcalifaciens, Pseudomonas spp., V. cholerae, Edwardsiella tarda, Pasteurella multocida and Aeromonas bestiarum.
+card	GES-1	AF156486.1:1331-2195	AERA01001083.1	44	908	+	864	99.88	100.0	99.88	carbapenem;cephalosporin;penicillin_beta-lactam GES-1 is a beta-lactamase found in Klebsiella pneumoniae.
+card	AAC(3)-Id	AY458224.1:706-1183	AERA01018618.1	11	488	+	477	99.79	100.0	99.79	aminoglycoside AAC(3)-Id is an aminoglycoside acetyltransferase encoded by genomic islands and integrons in S. enterica, P. mirabilis and Vibrio fluvialis.
+card	dfrA1	KJ541681.1:19526-20000	AERA01035294.1	87	561	-	474	99.79	100.0	99.79	diaminopyrimidine dfrA1 is an integron-encoded dihydrofolate reductase.
+card	aadS	M72415.1:1120-1984	AERA01026618.1	30	895	+	864	99.65	100.0	99.65	aminoglycoside A novel Tn4551 streptomycin-resistance gene that was phenotypically silent in wild-type Bacteroides; expression could be activated by a trans-acting chromosomal mutation.
+card	ErmF	M17124.1:1181-1982	AERA01027427.1	426	1227	+	801	99.63	100.0	99.63	lincosamide;macrolide;streptogramin;streptogramin_A;streptogramin_B ErmF confers the MLSb phenotype.
+card	Salmonella_enterica_cmlA	AJ487033.2:1685-2858	AERA01007166.1	86	1254	-	1173	99.57	99.57	99.15	phenicol cmlA is a plasmid-encoded chloramphenicol exporter that is found in Salmonella typhimurium.
+card	OXA-36	AF300985.1:1-739	AERA01018657.1	1046	1760	-	738	99.86	96.75	96.61	penicillin_beta-lactam OXA-36 is a beta-lactamase. Name originally from the historical Lahey list of beta-lactamases, some of which did not include sequence data.
+card	sul1	JF969163.1:1053-1893	AERA01018605.1	0	810	+	840	100.0	96.43	96.43	sulfonamide Sul1 is a sulfonamide resistant dihydropteroate synthase of Gram-negative bacteria. It is linked to other resistance genes of class 1 integrons.
+card	qacL	DQ149925.1:188-521	AERA01018644.1	50	384	-	333	95.81	100.0	95.81	disinfecting_agents_and_antiseptics A subunit of the qac multidrug efflux pump in Vibrio cholerae.
+card	AAC(6')-IIa	AY123251.1:2950-3505	AERA01018638.1	191	658	-	555	100.0	84.14	84.14	aminoglycoside AAC(6')-IIa is an aminoglycoside acetyltransferase encoded by plasmids and integrons in P. aeruginosa and S. enterica.
+card	qacE	HQ730118.1:5174-5507	AERA01000613.1	0	281	-	333	99.29	84.38	83.78	disinfecting_agents_and_antiseptics QacE is a resistance gene conferring resistance to antiseptics.
+card	catQ	M55620.1:0-660	AERA01012892.1	0	482	-	660	97.93	73.03	71.52	phenicol catQ is a chromosome-encoded variant of the cat gene found in Clostridium perfringens.
+card	floR	AF231986.2:3307-4522	AERA01018807.1	101	966	-	1215	94.34	71.28	67.24	phenicol floR is a plasmid or chromosome-encoded chloramphenicol exporter that is found in Bordetella bronchiseptica, Escherichia coli, Klebsiella pneumoniae, Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 and Vibrio cholerae.
+card	APH(3')-Ia	BX664015.1:103833-103017	AERA01010364.1	0	545	-	816	99.45	66.79	66.42	aminoglycoside APH(3')-Ia is a transposon-encoded aminoglycoside phosphotransferase in E. coli and S. enterica. It is identical at the protein sequence to APH(3')-Ic, an aminoglycoside phosphotransferase encoded by plasmids, transposons and genomic islands in K. pneumoniae, A. baumannii, S. marcescens, Corynebacterium spp., Photobacterium spp. and Citrobacter spp.
+card	tet(X)	M37699.1:585-1752	AERA01014442.1	0	753	-	1167	99.87	64.52	64.44	glycylcycline;tetracycline Tet(X) is a flavin-dependent monooxygenase conferring resistance to tetracycline antibiotics. Tet(X) hydroxylates position 11a of the tetraketide group thus inactivating the antibiotic.
+megares	AAC3	MEG_35	AERA01018618.1	11	488	+	477	100.0	100.0	100.0	Drugs:Aminoglycosides:Aminoglycoside_N-acetyltransferases:AAC3
+megares	AAC6-PRIME	MEG_300	AERA01018625.1	62	617	-	555	100.0	100.0	100.0	Drugs:Aminoglycosides:Aminoglycoside_N-acetyltransferases:AAC6-PRIME
+megares	AAC6-PRIME	MEG_330	AERA01023697.1	5	464	+	459	100.0	100.0	100.0	Drugs:Aminoglycosides:Aminoglycoside_N-acetyltransferases:AAC6-PRIME
+megares	APH3-DPRIME	MEG_1045	AERA01018606.1	694	1498	+	804	100.0	100.0	100.0	Drugs:Aminoglycosides:Aminoglycoside_O-phosphotransferases:APH3-DPRIME
+megares	APH6	MEG_1086	AERA01018606.1	1497	2334	+	837	100.0	100.0	100.0	Drugs:Aminoglycosides:Aminoglycoside_O-phosphotransferases:APH6
+megares	ARR	MEG_1132	AERA01014631.1	121	574	-	453	100.0	100.0	100.0	Drugs:Rifampin:Rifampin_ADP-ribosyltransferase_Arr:ARR
+megares	DFRB	MEG_2563	AERA01018650.1	111	348	-	237	100.0	100.0	100.0	Drugs:Trimethoprim:Dihydrofolate_reductase:DFRB
+megares	GES	MEG_3102	AERA01001083.1	44	908	+	864	100.0	100.0	100.0	Drugs:betalactams:Class_A_betalactamases:GES
+megares	MSRE	MEG_4075	AERA01017201.1	343	1819	+	1476	100.0	100.0	100.0	Drugs:MLS:MLS_resistance_ABC_efflux_pumps:MSRE
+megares	OXA	MEG_4770	AERA01018647.1	21	822	+	801	100.0	100.0	100.0	Drugs:betalactams:Class_D_betalactamases:OXA
+megares	QACG	MEG_5845	AERA01018601.1	98	431	+	333	100.0	100.0	100.0	Multi-compound:Drug_and_biocide_resistance:Drug_and_biocide_SMR_efflux_pumps:QACG
+megares	SULII	MEG_6617	AERA01009517.1	20	836	+	816	100.0	100.0	100.0	Drugs:Sulfonamides:Sulfonamide-resistant_dihydropteroate_synthases:SULII
+megares	VIM	MEG_7736	AERA01023697.1	616	1417	+	801	100.0	100.0	100.0	Drugs:betalactams:Class_B_betalactamases:VIM
+megares	MPHE	MEG_4044	AERA01017201.1	1874	2759	+	885	99.89	100.0	99.89	Drugs:MLS:Macrolide_phosphotransferases:MPHE
+megares	DFRA	MEG_2495	AERA01035294.1	87	561	-	474	99.79	100.0	99.79	Drugs:Trimethoprim:Dihydrofolate_reductase:DFRA
+megares	ERMF	MEG_2829	AERA01027427.1	426	1227	+	801	99.75	100.0	99.75	Drugs:MLS:23S_rRNA_methyltransferases:ERMF
+megares	ANT6	MEG_998	AERA01026618.1	30	895	+	864	99.65	100.0	99.65	Drugs:Aminoglycosides:Aminoglycoside_O-nucleotidyltransferases:ANT6
+megares	CMLA	MEG_1765	AERA01007166.1	86	1254	-	1173	99.57	99.57	99.15	Drugs:Phenicol:Phenicol_resistance_MFS_efflux_pumps:CMLA
+megares	SULI	MEG_6580	AERA01018605.1	0	810	+	828	100.0	97.83	97.83	Drugs:Sulfonamides:Sulfonamide-resistant_dihydropteroate_synthases:SULI
+megares	QACL	MEG_5853	AERA01018644.1	50	384	-	333	97.6	100.0	97.6	Multi-compound:Drug_and_biocide_resistance:Drug_and_biocide_SMR_efflux_pumps:QACL
+megares	OXA	MEG_5277	AERA01018657.1	1045	1760	-	739	99.86	96.75	96.62	Drugs:betalactams:Class_D_betalactamases:OXA
+megares	QACK	MEG_5850	AERA01015742.1	103	412	+	333	99.35	92.79	92.19	Multi-compound:Drug_and_biocide_resistance:Drug_and_biocide_SMR_efflux_pumps:QACK
+megares	QACE	MEG_5828	AERA01000613.1	0	281	-	333	100.0	84.38	84.38	Multi-compound:Drug_and_biocide_resistance:Drug_and_biocide_SMR_efflux_pumps:QACE
+megares	AAC6-PRIME	MEG_307	AERA01018638.1	191	658	-	555	100.0	84.14	84.14	Drugs:Aminoglycosides:Aminoglycoside_N-acetyltransferases:AAC6-PRIME
+megares	CAT	MEG_1554	AERA01012892.1	0	482	-	660	97.93	73.03	71.52	Drugs:Phenicol:Chloramphenicol_acetyltransferases:CAT
+megares	FLOR	MEG_2915	AERA01018807.1	100	966	-	1215	96.08	71.36	68.56	Drugs:Phenicol:Phenicol_resistance_MFS_efflux_pumps:FLOR
+megares	BLAA	MEG_1240	AERA01005730.1	7	596	-	882	100.0	66.78	66.78	Drugs:betalactams:Class_A_betalactamases:BLAA
+megares	APH3-DPRIME	MEG_1044	AERA01010364.1	0	545	-	816	99.45	66.79	66.42	Drugs:Aminoglycosides:Aminoglycoside_O-phosphotransferases:APH3-DPRIME
+megares	TETX	MEG_7238	AERA01014442.1	0	753	-	1167	100.0	64.52	64.52	Drugs:Tetracyclines:Tetracycline_inactivation_enzymes:TETX
+megares	ANT3-DPRIME	MEG_965	AERA01035941.1	50	485	-	675	99.54	64.44	64.15	Drugs:Aminoglycosides:Aminoglycoside_O-nucleotidyltransferases:ANT3-DPRIME
+ncbi	aac(3)-Id	NG_052489.1	AERA01018618.1	11	488	+	477	100.0	100.0	100.0	GENTAMICIN aminoglycoside N-acetyltransferase AAC(3)-Id
+ncbi	aac(6')-Ib4	NG_051844.1	AERA01018625.1	62	617	-	555	100.0	100.0	100.0	GENTAMICIN aminoglycoside N-acetyltransferase AAC(6')-Ib4
+ncbi	aac(6')-Il	NG_047303.1	AERA01023697.1	5	464	+	459	100.0	100.0	100.0	AMIKACIN;KANAMYCIN;TOBRAMYCIN aminoglycoside N-acetyltransferase AAC(6')-Il
+ncbi	aph(6)-Id	NG_047464.1	AERA01018606.1	1497	2334	+	837	100.0	100.0	100.0	STREPTOMYCIN aminoglycoside O-phosphotransferase APH(6)-Id
+ncbi	arr-3	NG_048581.1	AERA01014631.1	121	574	-	453	100.0	100.0	100.0	RIFAMYCIN NAD(+)--rifampin ADP-ribosyltransferase Arr-3
+ncbi	blaOXA-10	NG_049393.1	AERA01018647.1	21	822	+	801	100.0	100.0	100.0	CEPHALOSPORIN oxacillin-hydrolyzing class D beta-lactamase OXA-10
+ncbi	blaVIM-2	NG_050347.1	AERA01023697.1	616	1417	+	801	100.0	100.0	100.0	CARBAPENEM subclass B1 metallo-beta-lactamase VIM-2
+ncbi	dfrA1	NG_047676.1	AERA01035294.1	87	561	-	474	100.0	100.0	100.0	TRIMETHOPRIM trimethoprim-resistant dihydrofolate reductase DfrA1
+ncbi	dfrB5	NG_047758.1	AERA01018650.1	111	348	-	237	100.0	100.0	100.0	TRIMETHOPRIM trimethoprim-resistant dihydrofolate reductase DfrB5
+ncbi	msr(E)	NG_048007.1	AERA01017201.1	343	1819	+	1476	100.0	100.0	100.0	AZITHROMYCIN;ERYTHROMYCIN;STREPTOGRAMIN ABC-F type ribosomal protection protein Msr(E)
+ncbi	sul2	NG_051852.1	AERA01009517.1	20	836	+	816	100.0	100.0	100.0	SULFONAMIDE sulfonamide-resistant dihydropteroate synthase Sul2
+ncbi	mph(E)	NG_064660.1	AERA01017201.1	1874	2759	+	885	99.89	100.0	99.89	ERYTHROMYCIN Mph(E) family macrolide 2'-phosphotransferase
+ncbi	aph(3'')-Ib	NG_047413.1	AERA01018606.1	695	1498	+	804	100.0	99.88	99.88	STREPTOMYCIN aminoglycoside O-phosphotransferase APH(3'')-Ib
+ncbi	blaGES-1	NG_049111.1	AERA01001083.1	44	908	+	864	99.88	100.0	99.88	CEPHALOSPORIN extended-spectrum class A beta-lactamase GES-1
+ncbi	toprJ1	NG_074694.1	AERA01027366.1	205	1637	-	1434	99.79	100.0	99.79	TIGECYCLINE multidrug efflux transporter outer membrane subunit TOprJ1
+ncbi	erm(F)	NG_047825.1	AERA01027427.1	426	1227	+	801	99.75	100.0	99.75	CLINDAMYCIN;MACROLIDE;STREPTOGRAMIN 23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(F)
+ncbi	aadS	NG_047380.1	AERA01026618.1	30	895	+	864	99.65	100.0	99.65	STREPTOMYCIN aminoglycoside 6-adenylyltransferase AadS
+ncbi	sul1	NG_048089.1	AERA01018605.1	0	810	+	828	100.0	97.83	97.83	SULFONAMIDE sulfonamide-resistant dihydropteroate synthase Sul1
+ncbi	tmexC3	NG_076635.1	AERA01008257.1	38	1149	+	1164	99.19	95.45	94.67	TIGECYCLINE multidrug efflux RND transporter periplasmic adaptor subunit TMexC3
+ncbi	blaOXA-2	NG_049496.1	AERA01018657.1	992	1760	-	828	100.0	92.75	92.75	BETA-LACTAM oxacillin-hydrolyzing class D beta-lactamase OXA-2
+ncbi	cmlA5	NG_051436.1	AERA01007166.1	86	1254	-	1260	100.0	92.7	92.7	CHLORAMPHENICOL chloramphenicol efflux MFS transporter CmlA5
+ncbi	tmexD2	NG_076648.1	AERA01027366.1	1641	4425	-	3135	99.07	88.8	87.97	TIGECYCLINE multidrug efflux RND transporter permease subunit TMexD2
+ncbi	aac(6')-IIa	NG_047270.1	AERA01018638.1	191	658	-	555	99.79	84.14	83.96	GENTAMICIN;KANAMYCIN;TOBRAMYCIN aminoglycoside N-acetyltransferase AAC(6')-IIa
+ncbi	catA16	NG_047590.1	AERA01012892.1	0	482	-	660	97.93	73.03	71.52	CHLORAMPHENICOL type A-16 chloramphenicol O-acetyltransferase CatQ
+ncbi	floR	NG_047861.1	AERA01018807.1	100	966	-	1215	96.08	71.36	68.56	CHLORAMPHENICOL;FLORFENICOL chloramphenicol/florfenicol efflux MFS transporter FloR
+ncbi	bla-A	NG_047483.1	AERA01005730.1	7	596	-	882	100.0	66.78	66.78	BETA-LACTAM class A beta-lactamase
+ncbi	aph(3')-Ia	NG_047431.1	AERA01010364.1	0	545	-	816	99.45	66.79	66.42	KANAMYCIN aminoglycoside O-phosphotransferase APH(3')-Ia
+ncbi	tet(X2)	NG_048305.1	AERA01014442.1	0	753	-	1167	100.0	64.52	64.52	TIGECYCLINE tetracycline-inactivating monooxygenase Tet(X2)
+plasmidfinder	IncP1_2	U67194	AERA01000503.1	1088	1670	-	582	99.14	100.0	99.14	IncP1_2__U67194
+resfinder	ARR-3_1	JF806499	AERA01014631.1	121	574	-	453	100.0	100.0	100.0	Rifampicin ARR-3
+resfinder	aac(6')-Il_1	U13880	AERA01023697.1	5	464	+	459	100.0	100.0	100.0	Amikacin;Tobramycin aac(6')-Il
+resfinder	aph(6)-Id_1	M28829	AERA01018606.1	1497	2334	+	837	100.0	100.0	100.0	Streptomycin aph(6)-Id
+resfinder	blaGES-1_1	HQ170511	AERA01001083.1	44	908	+	864	100.0	100.0	100.0	Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid;Cefoxitin;Ceftazidime;Piperacillin;Ticarcillin blaGES-1
+resfinder	blaOXA-10_1	J03427	AERA01018647.1	21	822	+	801	100.0	100.0	100.0	Amoxicillin;Ampicillin;Aztreonam;Piperacillin;Piperacillin+Tazobactam blaOXA-10
+resfinder	blaVIM-2_1	AF302086	AERA01023697.1	616	1417	+	801	100.0	100.0	100.0	Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid;Cefepime;Cefixime;Cefotaxime;Cefoxitin;Ceftazidime;Ertapenem;Imipenem;Meropenem;Piperacillin;Piperacillin+Tazobactam blaVIM-2
+resfinder	dfrA1_8	X00926	AERA01035294.1	87	561	-	474	100.0	100.0	100.0	Trimethoprim dfrA1
+resfinder	dfrB5_1	AY943084	AERA01018650.1	111	348	-	237	100.0	100.0	100.0	Trimethoprim dfrB5
+resfinder	msr(E)_1	FR751518	AERA01017201.1	343	1819	+	1476	100.0	100.0	100.0	Azithromycin;Erythromycin;Pristinamycin_IA;Quinupristin;Virginiamycin_S msr(E)
+resfinder	sul2_2	AY034138	AERA01009517.1	20	836	+	816	100.0	100.0	100.0	Sulfamethoxazole sul2
+resfinder	mph(E)_1	DQ839391	AERA01017201.1	1874	2759	+	885	99.89	100.0	99.89	Erythromycin mph(E)
+resfinder	aph(3'')-Ib_2	AF024602	AERA01018606.1	695	1498	+	804	100.0	99.88	99.88	Streptomycin aph(3'')-Ib
+resfinder	TOprJ3_1	LC633285	AERA01027366.1	205	1637	-	1434	99.86	100.0	99.86	Doxycycline;Minocycline;Tetracycline;Tigecycline TOprJ3
+resfinder	aac(6')-Ib3_1	X60321	AERA01018625.1	62	617	-	555	99.82	100.0	99.82	Amikacin;Tobramycin aac(6')-Ib3
+resfinder	aac(3)-Id_1	AB114632	AERA01018618.1	11	488	+	477	99.79	100.0	99.79	Astromicin;Fortimicin;Gentamicin aac(3)-Id
+resfinder	erm(F)_3	M17808	AERA01027427.1	426	1227	+	801	99.75	100.0	99.75	Clindamycin;Erythromycin;Lincomycin;Pristinamycin_IA;Quinupristin;Virginiamycin_S erm(F)
+resfinder	sul1_39	AY522923	AERA01018605.1	0	810	+	828	100.0	97.83	97.83	Sulfamethoxazole sul1
+resfinder	blaOXA-36_1	AF300985	AERA01018657.1	992	1760	-	795	99.87	96.6	96.48	blaOXA-36
+resfinder	tmexC3_1	LC633285	AERA01008257.1	38	1149	+	1164	99.01	95.45	94.5	Doxycycline;Minocycline;Tetracycline;Tigecycline tmexC3
+resfinder	cml_1	M22614	AERA01007166.1	36	934	-	909	96.79	97.58	94.45	Chloramphenicol cml
+resfinder	tmexD2_1	MN175502	AERA01027366.1	1641	4425	-	3135	99.07	88.8	87.97	Doxycycline;Minocycline;Tetracycline;Tigecycline tmexD2
+resfinder	aac(6')-IIa_1	M29695	AERA01018638.1	191	658	-	555	99.79	84.14	83.96	Dibekacin;Gentamicin;Netilmicin;Sisomicin;Tobramycin aac(6')-IIa
+resfinder	catQ_1	M55620	AERA01012892.1	0	482	-	660	97.93	73.03	71.52	Chloramphenicol catQ
+resfinder	floR_2	AF118107	AERA01018807.1	100	966	-	1215	96.08	71.36	68.56	Chloramphenicol;Florfenicol floR
+resfinder	aph(3')-Ia_7	X62115	AERA01010364.1	0	545	-	816	99.45	66.79	66.42	Kanamycin aph(3')-Ia
+resfinder	tet(X)_1	GU014535	AERA01014442.1	0	753	-	1167	99.87	64.52	64.44	Doxycycline;Minocycline;Tetracycline;Tigecycline tet(X)

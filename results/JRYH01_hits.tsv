@@ -1,0 +1,16 @@
+database	gene	accession	contig	c_start	c_end	strand	ref_len	identity	coverage	score	product
+argannot	(Rif)arr2	JQ639792:1050-1502	JRYH01011675.1	3244	3697	-	453	100.0	100.0	100.0	(Rif)arr2
+argannot	(Sul)sul4	NG_056174:101-964	JRYH01135593.1	0	599	+	864	99.83	69.33	69.21	(Sul)sul4
+card	arr-2	AF078527.1:4387-4840	JRYH01011675.1	3244	3697	-	453	100.0	100.0	100.0	rifamycin arr-2 is an integron-encoded ribosyltransferase found in Pseudomonas aeruginosa.
+card	sul4	NG_056174.1:100-964	JRYH01135593.1	0	599	+	864	99.83	69.33	69.21	sulfonamide sul4 is a dihydropteroate synthase gene and mobile sulfonamide resistance gene shown to confer resistance when expressed in E. coli.
+megares	ARR	MEG_1129	JRYH01011675.1	3244	3697	-	453	100.0	100.0	100.0	Drugs:Rifampin:Rifampin_ADP-ribosyltransferase_Arr:ARR
+megares	QACK	MEG_5850	JRYH01065610.1	459	792	+	333	98.2	100.0	98.2	Multi-compound:Drug_and_biocide_resistance:Drug_and_biocide_SMR_efflux_pumps:QACK
+megares	SULI	MEG_6585	JRYH01135593.1	0	599	+	864	99.83	69.33	69.21	Drugs:Sulfonamides:Sulfonamide-resistant_dihydropteroate_synthases:SULI
+ncbi	arr-2	NG_048580.1	JRYH01011675.1	3244	3697	-	453	100.0	100.0	100.0	RIFAMYCIN NAD(+)--rifampin ADP-ribosyltransferase Arr-2
+ncbi	toprJ1	NG_074694.1	JRYH01006040.1	1753	3140	+	1434	96.65	100.0	96.65	TIGECYCLINE multidrug efflux transporter outer membrane subunit TOprJ1
+ncbi	tmexC3	NG_076635.1	JRYH01019787.1	0	826	-	1164	96.26	73.71	70.96	TIGECYCLINE multidrug efflux RND transporter periplasmic adaptor subunit TMexC3
+ncbi	sul4	NG_056174.1	JRYH01135593.1	0	599	+	864	99.83	69.33	69.21	SULFONAMIDE sulfonamide-resistant dihydropteroate synthase Sul4
+resfinder	ARR-2_1	HQ141279	JRYH01011675.1	3244	3697	-	453	100.0	100.0	100.0	Rifampicin ARR-2
+resfinder	TOprJ3_1	LC633285	JRYH01006040.1	1753	3140	+	1434	96.72	100.0	96.72	Doxycycline;Minocycline;Tetracycline;Tigecycline TOprJ3
+resfinder	tmexC3_1	LC633285	JRYH01019787.1	0	826	-	1164	96.03	73.71	70.78	Doxycycline;Minocycline;Tetracycline;Tigecycline tmexC3
+resfinder	sul4_1	MG649393	JRYH01135593.1	0	599	+	864	99.83	69.33	69.21	Sulfamethoxazole sul4

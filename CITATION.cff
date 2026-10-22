@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: Resistance determinants in industrial effluent metagenomes
+message: If you use this software or these results, please cite it as below.
+type: software
+authors:
+  - family-names: Jadeja
+    given-names: Niti B.
+    orcid: "https://orcid.org/0000-0002-2199-9605"
+    affiliation: University of Virginia School of Medicine
+repository-code: "https://github.com/jadejaniti/amr-metagenome-screen"
+abstract: >-
+  A reproducible screen of two publicly deposited metagenome assemblies from
+  pharmaceutical and industrial effluent treatment in India for antimicrobial
+  resistance genes, biocide resistance determinants, class 1 integron markers
+  and plasmid replicons. Includes the alignment and locus-resolution scripts,
+  the full and non-redundant result sets for both assemblies, and a statement
+  of the limits that assembly fragmentation places on linkage claims.
+keywords:
+  - antimicrobial resistance
+  - metagenomics
+  - class 1 integrons
+  - mobile genetic elements
+  - industrial effluent
+  - resistome
+license: MIT
