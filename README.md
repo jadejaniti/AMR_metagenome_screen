@@ -1,5 +1,5 @@
 # Resistance determinants in industrial effluent metagenomes
-
+[![DOI](https://zenodo.org/badge/1430290145.svg)](https://doi.org/10.5281/zenodo.23578846)
 A reproducible screen of two publicly deposited metagenome assemblies for antimicrobial
 resistance genes, biocide resistance determinants, class 1 integron markers and plasmid
 replicons.
